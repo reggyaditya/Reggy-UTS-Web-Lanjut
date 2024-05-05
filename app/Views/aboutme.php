@@ -255,9 +255,13 @@
 
         <div class="heroe">
 
-            <h1>Selamat Datang di Website "Reggy Aditya"</h1>
+            <h1>About Me</h1>
 
-            <h2>Ini digunakan untuk menunjukan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+            <h2>
+                Hallo Perkenalkan, <b>Nama Saya Reggy Aditya</b>,
+                Saya berasal dari Kota Bandung, dan tinggal di Antapani,
+                Sekarang saya bekerja di Yayasan yang bergerak di bidang Pendidikan dan Sosial bernama Budi Istri Priangan, sebagai Staff Administrasi
+            </h2>
 
         </div>
 
@@ -265,14 +269,6 @@
 
     <!-- CONTENT -->
 
-    <section>
-
-        <h1>About this page</h1>
-
-        <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-    </section>
 
 
     <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->

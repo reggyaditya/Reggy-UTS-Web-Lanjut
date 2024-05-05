@@ -255,24 +255,46 @@
 
         <div class="heroe">
 
-            <h1>Selamat Datang di Website "Reggy Aditya"</h1>
+            <h1>My Education</h1>
 
-            <h2>Ini digunakan untuk menunjukan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+            <table border="1" cellspasing="0">
+                <tr bgcolor="lightblue" style="color:white;">
+                    <td width="50px" align="center">No</td>
+                    <td width="200px" align="center">Tingkat</td>
+                    <td width="600px" align="center">Nama Sekolah</td>
+                </tr>
 
+                <tr>
+                    <td>1</td>
+                    <td>TK</td>
+                    <td>TK Priangan</td>
+                </tr>
+
+                <tr>
+                    <td>2</td>
+                    <td>SD</td>
+                    <td>SD Priangan</td>
+                </tr>
+
+                <tr>
+                    <td>3</td>
+                    <td>SMP</td>
+                    <td>SMP Negeri 44 Kota Bandung</td>
+                </tr>
+
+                <tr>
+                    <td>4</td>
+                    <td>SMA</td>
+                    <td><a href="https://sman14bdg.sch.id/">SMA Negeri 14 Kota Bandung</a></td>
+                </tr>
+
+            </table>
         </div>
 
     </header>
 
     <!-- CONTENT -->
 
-    <section>
-
-        <h1>About this page</h1>
-
-        <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-    </section>
 
 
     <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
